@@ -64,6 +64,8 @@
   <ItemGroup>
     <Compile Include="Assets\FaceMouse.cs" />
     <Compile Include="Assets\Movement.cs" />
+    <Compile Include="Assets\Scripts\BulletSpawnerScript.cs" />
+    <Compile Include="Assets\Scripts\Movement.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/xrj32/OneDrive/Skrivebord/Repos/GameJam/Tank Game/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
