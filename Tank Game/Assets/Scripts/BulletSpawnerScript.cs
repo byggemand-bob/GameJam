@@ -2,17 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Movement : MonoBehaviour {
-
-    public float MovementSpeed = 10f;
-
+public class Sp : MonoBehaviour
+{
     // Start is called before the first frame update
-    void Start() {
-
+    void Start()
+    {
+        
     }
 
     // Update is called once per frame
-    void Update() {
-        this.transform.position = transform.position +  
+    void Update()
+    {
+        
     }
 }
