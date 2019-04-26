@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\FaceMouse.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
     <Compile Include="Assets\Scripts\ProjectileSpawner.cs" />
+    <Compile Include="Assets\Movement.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/theml/Documents/GitHub/GameJam/Tank Game/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
